@@ -21,5 +21,13 @@ public class CardManager {
 		}
 		return cardSet;
 	}
+	
+	public void draw(CardSet fromSet, CardSet toSet, Card drawnCard) {
+		
+	}
+	
+	public void drop(CardSet fromSet, CardSet toSet, Card droppedCard) {
+		
+	}
 
 }

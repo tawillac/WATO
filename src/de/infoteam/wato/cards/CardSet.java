@@ -27,7 +27,6 @@ public class CardSet {
 	}
 	
 	public void removeCard(Card card) {
-		cardList.stream().findFirst(i-> )
 	}
 	
 	public void draw() {
